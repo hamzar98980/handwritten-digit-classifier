@@ -5,7 +5,7 @@ from tensorflow.keras.models import load_model
 import numpy as np
 
 
-slt.title('Upload Handwritten Number Image')
+slt.title('Upload Handwritten Number Image.')
 
 upload_file = slt.file_uploader("Upload Image")
 
